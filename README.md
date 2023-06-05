@@ -34,6 +34,13 @@ To get started with the Reasonable CPU/GPU Comparison App, follow these steps:
 - `GET /best-cpu`: Fetches the best CPU based on the lowest price per performance (PPD).
 - `GET /cpus`: Fetches all CPUs and their comparison with the best CPU.
 
+## TODO
+- Limit results to most recent generation of CPU/GPU
+- Add referal links
+- Add recommendations for Motherboards, RAM, Storage
+- Add total power estimation and recommendations for power supplies
+- General beautification
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
