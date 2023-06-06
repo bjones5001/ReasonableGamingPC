@@ -43,7 +43,7 @@ To get started with the Reasonable CPU/GPU Comparison App, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the AGPL 3.0(LICENSE).
 
 Feel free to modify and adapt this code for your own use. However, please note that while this code provides a starting point, it may require additional modifications and enhancements to suit your specific needs.
 
